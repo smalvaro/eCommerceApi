@@ -1,6 +1,4 @@
-Nota:
-El /getProducts devuelve siempre null y no entiendo porque, es exactamente el mismo codigo que en 
-/getPurchases pero en uno funciona y en otro no
+
 
 Para usar la API
 1.-Crear User en /signup
